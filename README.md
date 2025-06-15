@@ -13,7 +13,7 @@
 <table border="0px">
   <tr>
     <td>
-      <img src="https://github.com/laiqrind/Homelab-Infrastructure/tree/main/assets/images/9FD5399E-4D3C-41BE-93B3-5777E1659411.png" alt="Enterprise homelab rack infrastructure icon" width="150" height="120"/>
+      <img src="https://github.com/laiqrind/Homelab-Infrastructure/assets/images/9FD5399E-4D3C-41BE-93B3-5777E1659411.png" alt="Enterprise homelab rack infrastructure icon" width="150" height="120"/>
     </td>
     <td>
       <h2>🏗️ Enterprise-Grade Homelab Infrastructure</h2>
