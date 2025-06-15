@@ -13,16 +13,23 @@
 <table border="0px">
   <tr>
     <td>
-      <img src="https://github.com/laiqrind/Homelab-Infrastructure/assets/images/9FD5399E-4D3C-41BE-93B3-5777E1659411.png" alt="Enterprise homelab rack infrastructure icon" width="150" height="120"/>
-    </td>
-    <td>
-      <h2>🏗️ Enterprise-Grade Homelab Infrastructure</h2>
-      Professional self-hosted infrastructure</strong> built with Raspberry Pi 500, enterprise load balancing, monitoring stack, and container orchestration. This project demonstrates production-level DevOps practices with <strong>zero recurring hosting costs while providing $3,000+/year equivalent cloud infrastructure value.
-      
-      <p>🎯 <strong>Mission:</strong> Build a complete enterprise-grade homelab that serves as both a learning platform and production-ready infrastructure for personal projects.</p>
+      <img src="./assets/images/9FD5399E-4D3C-41BE-93B3-5777E1659411.png" alt="Enterprise homelab rack infrastructure icon" width="150" height="120"/>
     </td>
   </tr>
 </table>
+
+<h2>🏗️ Enterprise-Grade Homelab Infrastructure</h2>
+
+<p>
+  <strong>
+    Professional self-hosted infrastructure</strong> built with Raspberry Pi 500, enterprise load balancing, monitoring stack, and container orchestration. This project demonstrates
+  production-level DevOps practices with <strong>zero recurring hosting costs while providing $3,000+/year equivalent cloud infrastructure value.
+</strong>
+</p>
+      
+<p>🎯 
+  <strong>Mission:</strong> Build a complete enterprise-grade homelab that serves as both a learning platform and production-ready infrastructure for personal projects.</p>
+    
 
 ---
 
