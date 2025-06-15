@@ -17,7 +17,7 @@
     </td>
     <td>
       <h2>🏗️ Enterprise-Grade Homelab Infrastructure</h2>
-      <p><strong>Professional self-hosted infrastructure</strong> built with Raspberry Pi 500, enterprise load balancing, monitoring stack, and container orchestration. This project demonstrates production-level DevOps practices with <strong>zero recurring hosting costs</strong> while providing $3,000+/year equivalent cloud infrastructure value.</p>
+      Professional self-hosted infrastructure</strong> built with Raspberry Pi 500, enterprise load balancing, monitoring stack, and container orchestration. This project demonstrates production-level DevOps practices with <strong>zero recurring hosting costs while providing $3,000+/year equivalent cloud infrastructure value.
       
       <p>🎯 <strong>Mission:</strong> Build a complete enterprise-grade homelab that serves as both a learning platform and production-ready infrastructure for personal projects.</p>
     </td>
