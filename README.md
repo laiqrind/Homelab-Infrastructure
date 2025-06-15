@@ -4,8 +4,8 @@
 
 ![Project Status](https://img.shields.io/badge/Status-In%20Development-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/homelab-infrastructure)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/homelab-infrastructure)
+#![GitHub Issues](https://img.shields.io/github/issues/yourusername/homelab-infrastructure)
+#![GitHub Stars](https://img.shields.io/github/stars/yourusername/homelab-infrastructure)
 ![Uptime](https://img.shields.io/badge/Planned%20Uptime-99.9%25-green)
 
 </div>
